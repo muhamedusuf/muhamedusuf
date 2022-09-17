@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @muhamedusuf
+- 👀 I’m interested in software development and data analysis
+- 🌱 I’m currently learning core java,sql,python 
+- 💞️ I’m looking to collaborate on some mini projects 
+- 📫 please reach me and help me in learning about software development 
